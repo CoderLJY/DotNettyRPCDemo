@@ -1,0 +1,14 @@
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\bin\Debug\netcoreapp2.1\NettyRPCDemo.Server.deps.json
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\bin\Debug\netcoreapp2.1\NettyRPCDemo.Server.runtimeconfig.json
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\bin\Debug\netcoreapp2.1\NettyRPCDemo.Server.runtimeconfig.dev.json
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\bin\Debug\netcoreapp2.1\NettyRPCDemo.Server.dll
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\bin\Debug\netcoreapp2.1\NettyRPCDemo.Server.pdb
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\obj\Debug\netcoreapp2.1\NettyRPCDemo.Server.csprojAssemblyReference.cache
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\obj\Debug\netcoreapp2.1\NettyRPCDemo.Server.csproj.CoreCompileInputs.cache
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\obj\Debug\netcoreapp2.1\NettyRPCDemo.Server.AssemblyInfoInputs.cache
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\obj\Debug\netcoreapp2.1\NettyRPCDemo.Server.AssemblyInfo.cs
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\obj\Debug\netcoreapp2.1\NettyRPCDemo.Server.dll
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\obj\Debug\netcoreapp2.1\NettyRPCDemo.Server.pdb
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\bin\Debug\netcoreapp2.1\NettyRPCDemo.Protocol.dll
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\bin\Debug\netcoreapp2.1\NettyRPCDemo.Protocol.pdb
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Server\obj\Debug\netcoreapp2.1\NettyRPCDemo.Server.csproj.CopyComplete

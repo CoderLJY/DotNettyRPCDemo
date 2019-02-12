@@ -1,0 +1,14 @@
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\bin\Debug\netcoreapp2.1\NettyRPCDemo.Client.deps.json
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\bin\Debug\netcoreapp2.1\NettyRPCDemo.Client.runtimeconfig.json
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\bin\Debug\netcoreapp2.1\NettyRPCDemo.Client.runtimeconfig.dev.json
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\bin\Debug\netcoreapp2.1\NettyRPCDemo.Client.dll
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\bin\Debug\netcoreapp2.1\NettyRPCDemo.Client.pdb
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\bin\Debug\netcoreapp2.1\NettyRPCDemo.Protocol.dll
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\bin\Debug\netcoreapp2.1\NettyRPCDemo.Protocol.pdb
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\obj\Debug\netcoreapp2.1\NettyRPCDemo.Client.csprojAssemblyReference.cache
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\obj\Debug\netcoreapp2.1\NettyRPCDemo.Client.csproj.CoreCompileInputs.cache
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\obj\Debug\netcoreapp2.1\NettyRPCDemo.Client.AssemblyInfoInputs.cache
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\obj\Debug\netcoreapp2.1\NettyRPCDemo.Client.AssemblyInfo.cs
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\obj\Debug\netcoreapp2.1\NettyRPCDemo.Client.csproj.CopyComplete
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\obj\Debug\netcoreapp2.1\NettyRPCDemo.Client.dll
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Client\obj\Debug\netcoreapp2.1\NettyRPCDemo.Client.pdb
