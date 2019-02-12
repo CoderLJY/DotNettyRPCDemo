@@ -1,0 +1,9 @@
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Protocol\bin\Debug\netstandard2.0\NettyRPCDemo.Protocol.deps.json
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Protocol\bin\Debug\netstandard2.0\NettyRPCDemo.Protocol.dll
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Protocol\bin\Debug\netstandard2.0\NettyRPCDemo.Protocol.pdb
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Protocol\obj\Debug\netstandard2.0\NettyRPCDemo.Protocol.csprojAssemblyReference.cache
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Protocol\obj\Debug\netstandard2.0\NettyRPCDemo.Protocol.csproj.CoreCompileInputs.cache
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Protocol\obj\Debug\netstandard2.0\NettyRPCDemo.Protocol.AssemblyInfoInputs.cache
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Protocol\obj\Debug\netstandard2.0\NettyRPCDemo.Protocol.AssemblyInfo.cs
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Protocol\obj\Debug\netstandard2.0\NettyRPCDemo.Protocol.dll
+D:\linsi\RiderProjects\NettyRPCDemo\src\NettyRPCDemo.Protocol\obj\Debug\netstandard2.0\NettyRPCDemo.Protocol.pdb
