@@ -1,0 +1,518 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="57aa0eb4-0e1d-4142-92ca-8ffee2bb407e" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>test</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/src/NettyRPCDemo.Protocol/obj/Debug/netstandard2.0/NettyRPCDemo.Protocol.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5059D721-1253-43B0-B884-F73E77C4F8F8/10/MessageExtensions.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/NettyRPCDemo.Server/obj/Debug/netcoreapp2.1/NettyRPCDemo.Server.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/NettyRPCDemo.Client/obj/Debug/netcoreapp2.1/NettyRPCDemo.Client.AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/NettyRPCDemo.Server/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/NettyRPCDemo.Server/RPCDemoServerHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/NettyRPCDemo.Client/Program.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/NettyRPCDemo.Client/RPCDemoClientHandler.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/NettyRPCDemo.Protocol/Addressbook.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0B1E95C3-117B-403B-95BD-433D56CB87F1/00/7ec1b10a/AbstractChannelHandlerContext.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/NettyRPCDemo.Protocol/addressbook.proto" />
+        <option value="$PROJECT_DIR$/src/NettyRPCDemo.Protocol/generate.bat" />
+        <option value="$PROJECT_DIR$/src/NettyRPCDemo.Server/Program.cs" />
+        <option value="$PROJECT_DIR$/src/NettyRPCDemo.Client/RPCDemoClientHandler.cs" />
+        <option value="$PROJECT_DIR$/src/NettyRPCDemo.Client/Program.cs" />
+        <option value="$PROJECT_DIR$/src/NettyRPCDemo.Server/RPCDemoServerHandler.cs" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="-9" />
+    <option name="y" value="-9" />
+    <option name="width" value="1938" />
+    <option name="height" value="1048" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="FileSystemExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AssemblyExplorer" />
+      <pane id="FileSystemExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="161ac34:FileSystemExplorerRootNode" />
+              <item name="NettyRPCDemo" type="34e6ba20:FileSystemExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NettyRPCDemo" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+            <path>
+              <item name="Project" type="784c90a0:SolutionExplorerRootNode" />
+              <item name="NettyRPCDemo" type="24d0babc:SolutionExplorerModelNode" />
+              <item name="src" type="24d0babc:SolutionExplorerModelNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected=".NET Project.RPCDemo.Client">
+    <configuration name="RPCDemo.Client" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/src/NettyRPCDemo.Client/bin/Debug/netcoreapp2.1/NettyRPCDemo.Client.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/NettyRPCDemo.Client" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/NettyRPCDemo.Client/NettyRPCDemo.Client.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="RPCDemo.Server" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/src/NettyRPCDemo.Server/bin/Debug/netcoreapp2.1/NettyRPCDemo.Server.dll" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/NettyRPCDemo.Server" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <envs>
+        <env name="ASPNETCORE_ENVIRONMENT" value="Development" />
+        <env name="ASPNETCORE_URLS" value="http://localhost:5000" />
+      </envs>
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="RUNTIME_ARGUMENTS" value="" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/src/NettyRPCDemo.Server/NettyRPCDemo.Server.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="DotNetCore" />
+      <option name="PROJECT_TFM" value=".NETCoreApp,Version=v2.1" />
+      <browser url="http://localhost:5000" />
+      <method v="2">
+        <option name="Build" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue=".NET Project.RPCDemo.Server" />
+      <item itemvalue=".NET Project.RPCDemo.Client" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="57aa0eb4-0e1d-4142-92ca-8ffee2bb407e" name="Default Changelist" comment="" />
+      <created>1549938727162</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549938727162</updated>
+      <workItem from="1549938728683" duration="218000" />
+      <workItem from="1549939068153" duration="1525000" />
+      <workItem from="1549946063272" duration="12057000" />
+    </task>
+    <task id="LOCAL-00001" summary="first commit, can successfully run">
+      <created>1549960320932</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1549960320933</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="13800000" />
+  </component>
+  <component name="TodoView" selected-index="4">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.4978903" visible="true" weight="0.25637585" />
+      <window_info id="Structure" order="1" sideWeight="0.5021097" side_tool="true" weight="0.25637585" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Capture Tool" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Build" weight="0.3286119" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.3286119" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39943343" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3286119" />
+      <window_info anchor="bottom" id="NuGet" order="7" weight="0.3286119" />
+      <window_info anchor="bottom" id="Performance Profiler" order="8" />
+      <window_info anchor="bottom" id="Docker" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" weight="0.2917847" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="right" id="Errors In Solution" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Unit Tests Coverage" order="6" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit, can successfully run" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit, can successfully run" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="watch">
+      <expression>
+        <expression-string>buffer.ToString()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buffer.IoBufferCount</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+      <expression>
+        <expression-string>buffer.Array.ToString()</expression-string>
+        <language-id>C#</language-id>
+        <custom-info>RiderImportsList:</custom-info>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/NettyRPCDemo.Protocol/NettyRPCDemo.Protocol.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NettyRPCDemo.Protocol/generate.bat">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NettyRPCDemo.Protocol/addressbook.proto">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="28" selection-start-line="39" selection-start-column="28" selection-end-line="39" selection-end-column="28" />
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/SourcesCache/5059D721-1253-43B0-B884-F73E77C4F8F8/10/MessageExtensions.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="139" column="33" selection-start-line="139" selection-start-column="33" selection-end-line="139" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NettyRPCDemo.Server/NettyRPCDemo.Server.csproj">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NettyRPCDemo.Protocol/Addressbook.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2623">
+          <caret line="462" column="41" selection-start-line="462" selection-start-column="30" selection-end-line="462" selection-end-column="41" />
+          <folding>
+            <marker date="1549949360136" expanded="true" signature="0:137" ph="/* &lt;auto-generated&gt; ... */" />
+            <marker date="1549949360136" expanded="true" signature="179:21093" ph="Designer generated code" />
+            <marker date="1549949360136" expanded="false" signature="218:392" ph="..." />
+            <marker date="1549949360136" expanded="true" signature="437:21057" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="584:2668" ph="{...}" />
+            <marker date="1549949360136" expanded="false" signature="591:2663" ph="Descriptor" />
+            <marker date="1549949360136" expanded="true" signature="724:764" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="852:2648" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="1856:2639" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="2671:21054" ph="Messages" />
+            <marker date="1549949360136" expanded="true" signature="2690:2743" ph="/// [START messages] ... " />
+            <marker date="1549949360136" expanded="true" signature="2804:16658" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="3225:3345" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="3460:3500" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="3584:3615" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="3756:3994" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="4084:4122" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="4344:4468" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="4384:4462" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="4595:4669" ph="/// Unique ID number for this person. ... " />
+            <marker date="1549949360136" expanded="true" signature="4750:4824" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="4788:4818" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="5050:5176" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="5091:5170" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="5915:5952" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="6115:6202" ph="///    google.protobuf.Timestamp last_updated = 5; ... " />
+            <marker date="1549949360136" expanded="true" signature="6295:6433" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="6342:6427" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="6543:6588" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="6689:7141" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="6731:6762" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="6803:6833" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="7243:7645" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="7565:7620" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="7747:7811" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="7929:8495" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="7959:8034" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="8054:8126" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="8156:8232" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="8323:8405" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="8440:8489" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="8590:9213" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="8640:8716" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="8736:8809" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="8839:8916" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9013:9096" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9131:9188" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9317:9796" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9344:9369" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9404:9440" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9466:9498" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9534:9572" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9648:9698" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9914:10636" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9975:10630" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="9997:10622" ph="{...}" />
+            <marker date="1549949360136" expanded="false" signature="10642:16653" ph="Nested types" />
+            <marker date="1549949360136" expanded="true" signature="10854:16638" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="10884:11035" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="11111:16631" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="11576:11688" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="11811:11859" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="11956:11995" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="12158:12311" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="12414:12465" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="12715:12863" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="12765:12853" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="13220:13318" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="13268:13308" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="13436:13494" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="13608:13949" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="13654:13693" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="13738:13776" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="14059:14336" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="14240:14303" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="14446:14518" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="14644:14992" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="14680:14769" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="14795:14886" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="14925:14982" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="15095:15492" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="15155:15241" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="15267:15355" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="15394:15459" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="15609:15944" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="15640:15673" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="15714:15762" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="15794:15838" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="16070:16622" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="16139:16612" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="16165:16600" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="16662:16742" ph="/// Our address book file is just one of these. ... " />
+            <marker date="1549949360136" expanded="true" signature="16813:21040" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="17254:17374" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="17489:17529" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="17618:17649" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="17800:17918" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="18013:18056" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="18705:18742" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="18852:18902" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="19008:19272" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="19050:19081" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="19122:19152" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="19374:19547" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="19467:19522" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="19649:19713" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="19831:19977" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="19922:19971" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="20072:20271" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="20189:20246" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="20380:20564" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="20407:20432" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="20682:21035" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="20743:21029" ph="{...}" />
+            <marker date="1549949360136" expanded="true" signature="20765:21021" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/0B1E95C3-117B-403B-95BD-433D56CB87F1/00/7ec1b10a/AbstractChannelHandlerContext.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="412" column="8" selection-start-line="412" selection-start-column="8" selection-end-line="412" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NettyRPCDemo.Server/RPCDemoServerHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="23" column="8" selection-start-line="23" selection-start-column="8" selection-end-line="23" selection-end-column="8" />
+          <folding>
+            <marker date="1549954890206" expanded="true" signature="6:174" ph="..." />
+            <marker date="1549954890206" expanded="true" signature="205:835" ph="{...}" />
+            <marker date="1549954890206" expanded="true" signature="269:833" ph="{...}" />
+            <marker date="1549954890206" expanded="true" signature="364:827" ph="{...}" />
+            <marker date="1549954890206" expanded="true" signature="455:817" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NettyRPCDemo.Client/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="264">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+          <folding>
+            <marker date="1549954747210" expanded="true" signature="6:376" ph="..." />
+            <marker date="1549954747210" expanded="true" signature="407:2561" ph="{...}" />
+            <marker date="1549954747210" expanded="true" signature="427:2559" ph="{...}" />
+            <marker date="1549954747210" expanded="true" signature="476:2497" ph="{...}" />
+            <marker date="1549954747210" expanded="true" signature="594:952" ph="/* X509Certificate2 cert = null; ... */" />
+            <marker date="1549954747210" expanded="true" signature="968:2329" ph="{...}" />
+            <marker date="1549954747210" expanded="true" signature="1346:2100" ph="{...}" />
+            <marker date="1549954747210" expanded="true" signature="1440:1730" ph="/* if (cert != null) ... */" />
+            <marker date="1549954747210" expanded="true" signature="2349:2487" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NettyRPCDemo.Server/Program.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="78" column="25" selection-start-line="78" selection-start-column="25" selection-end-line="78" selection-end-column="25" />
+          <folding>
+            <marker date="1549954095820" expanded="false" signature="6:316" ph="..." />
+            <marker date="1549954095820" expanded="true" signature="347:3133" ph="{...}" />
+            <marker date="1549954095820" expanded="true" signature="367:3131" ph="{...}" />
+            <marker date="1549954095820" expanded="true" signature="416:3069" ph="{...}" />
+            <marker date="1549954095820" expanded="true" signature="557:845" ph="/* if (ServerSettings.UseLibuv) ... */" />
+            <marker date="1549954095820" expanded="true" signature="971:1248" ph="/* } ... */" />
+            <marker date="1549954095820" expanded="true" signature="1264:2748" ph="{...}" />
+            <marker date="1549954095820" expanded="true" signature="1392:1582" ph="/* if (ServerSettings.UseLibuv) ... */" />
+            <marker date="1549954095820" expanded="true" signature="1897:2570" ph="{...}" />
+            <marker date="1549954095820" expanded="true" signature="1990:2189" ph="/* if (tlsCertificate != null) ... */" />
+            <marker date="1549954095820" expanded="true" signature="2768:3059" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/NettyRPCDemo.Client/RPCDemoClientHandler.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="223">
+          <caret line="33" column="60" selection-start-line="33" selection-start-column="60" selection-end-line="33" selection-end-column="60" />
+          <folding>
+            <marker date="1549954253865" expanded="true" signature="6:174" ph="..." />
+            <marker date="1549954253865" expanded="true" signature="205:1476" ph="{...}" />
+            <marker date="1549954253865" expanded="true" signature="269:1474" ph="{...}" />
+            <marker date="1549954253865" expanded="true" signature="350:1250" ph="{...}" />
+            <marker date="1549954253865" expanded="true" signature="429:992" ph="{...}" />
+            <marker date="1549954253865" expanded="true" signature="472:978" ph="{...}" />
+            <marker date="1549954253865" expanded="true" signature="527:960" ph="{...}" />
+            <marker date="1549954253865" expanded="true" signature="714:860" ph="{...}" />
+            <marker date="1549954253865" expanded="true" signature="1349:1468" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="71" column="15" selection-start-line="71" selection-start-column="11" selection-end-line="71" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
